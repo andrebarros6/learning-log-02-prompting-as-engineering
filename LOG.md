@@ -40,7 +40,7 @@ create the summary of the transcript meeting attached under 200 words.
 
 ### v3
 
-- **Prompt:** [prompts/v2.md](prompts/v2.md)  
+- **Prompt:** [prompts/v3.md](prompts/v3.md)  
 create the summary of the transcript meeting attached under 200 words. write the decisions made during the meeting - add the points for decisions not made. 
 - **What I changed:** <!-- one thing -->
 - **Why:** <!-- which failure, on which input -->
@@ -48,7 +48,7 @@ create the summary of the transcript meeting attached under 200 words. write the
 
 ### v4
 
-- **Prompt:** [prompts/v2.md](prompts/v2.md)  
+- **Prompt:** [prompts/v4.md](prompts/v4.md)  
 create the summary of the transcript meeting attached under 200 words. write the decisions made during the meeting - add the points for decisions not made. create a table with actions, owners and finishing date - dates should be calendar date.
 - **What I changed:** <!-- one thing --> asked for a table
 - **Why:** <!-- which failure, on which input -->
